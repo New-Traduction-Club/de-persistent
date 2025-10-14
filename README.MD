@@ -13,7 +13,7 @@ It operates by first installing lightweight stub modules to emulate the Ren'Py e
 
 1. Place the persistent file in the script's directory.
 2. Execute the script from your terminal:
-```python
+```cmd
 python main.py
 ```
 3. The output will be saved to the file specified by the `OUTPUT_JSON` variable.

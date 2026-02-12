@@ -18,6 +18,8 @@ python main.py
 ```
 3. The output will be saved to the file specified by the `OUTPUT_JSON` variable.
 
+> Note: python version tested was 3.14.2
+
 ### Configuration
 
 Input and output paths can be configured by modifying the global variables at the top of the script:
